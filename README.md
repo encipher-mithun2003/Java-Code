@@ -1,5 +1,6 @@
-Java Code from Basic to Adavnce level 
-Make to develop the diifern t kind of logic and various approaches
+# javaPrograms
+Java Code from Basic to Advanced Level<br>
+To develop the different t kinds of logic and various approaches<br>
 
-**Tool using**
+## Tool using
 IntelliJ IDEA
