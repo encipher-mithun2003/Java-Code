@@ -1,6 +1,6 @@
 public class RangeSearch {
     public static void main(String[] args) {
-        int[] arr = {18, 12, -7, 3, 14, 28};
+        int[] arr = {18, 12, -7, 3, 14, 28,52};
         int target = 3;
         System.out.println(linearserach(arr, target,1,4));
     }
