@@ -6,6 +6,6 @@ public class Array{
        System.out.println(Arrays.toString(arr));
     }
    static void change(int[] nums){
-       nums[0] = 99;
+       nums[0] = 102;
    }
 }
